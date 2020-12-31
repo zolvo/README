@@ -8,6 +8,5 @@
 <h1 align="center">
   <a name="logo" href="https://aa-listen-up.herokuapp.com/"><img src="https://cdn.worldvectorlogo.com/logos/react.svg" alt="js-logo" width="50"></a>
   <a name="logo" href="https://aa-listen-up.herokuapp.com/"><img src="https://miro.medium.com/max/1400/1*Q5EUk28Xc3iCDoMSkrd1_w.png" alt="pug-logo" width="50"></a>
-  <a name="logo" href="https://aa-listen-up.herokuapp.com/"><img src="https://i.ibb.co/VLYp5m1/icons8-css3-96.png" alt="css-logo" width="50"></a>
   <a name="logo" href="https://i.ibb.co/VpGfh8w/icons8-postgresql-96-1.png"><img src="https://i.ibb.co/VpGfh8w/icons8-postgresql-96-1.png" alt="psql-logo" width="50"></a>
 </h1>
