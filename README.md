@@ -20,7 +20,7 @@ first_draft is a web app that allows user to create an account to create stories
 ---
 
 <h1 align="center" >
- <img src="documentation/Screen Shot 2020-12-31 at 1.13.58 PM.png" alt="firstdraft-home" width="80%">
+ <img src="documentation/Screen Shot 2020-12-31 at 1.13.58 PM.png" alt="firstdraft-home"">
 </h1>
 
 <h4 align="center">'first_draft' is a web app inspired by 'Medium' that allows users to share thoughts, stories, and experience. A logged in users have the ability to create stories, giving comments, likes, & follows.
@@ -30,7 +30,7 @@ first_draft is a web app that allows user to create an account to create stories
 
 <h1>Database Schema</h1>
 
- <img src="documentation/database-schema.png" alt="firstdraftlogo" width="100%">
+ <img src="documentation/database-schema.png" alt="firstdraftlogo" >
 
 ---
 
