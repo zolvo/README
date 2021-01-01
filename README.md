@@ -38,15 +38,11 @@ first_draft is a web app that allows user to create an account to create stories
 
 <h3 align='left'>
 
-> > Login
-
-> > Story
-
-> > Comment
-
-> > Like
-
-> > Follow
+- Login
+- Story
+- Comment
+- Like
+- Follow
 
 </h3>
 
