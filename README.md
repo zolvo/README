@@ -64,7 +64,7 @@ first_draft is a web app that allows user to create an account to create stories
 
 ---
 
-<h3 alignt='center'>Login</h3>
+<h3>Login</h3>
 <h3 align='left'>'/login'</h3>
 
 <img src="documentation/Screenshot 2020-12-31 192059.jpg" alt="home">
@@ -101,7 +101,7 @@ def login():
 
 ---
 
-<h3 alignt='center'>Story</h3>
+<h3>Story</h3>
 <h3 align='left'>'/stories'</h3>
 
 <img src="documentation/Screenshot 2020-12-31 151046.jpg" alt="home">
@@ -133,7 +133,7 @@ useEffect(() => {
 
 ---
 
-<h3 alignt='center'>Comment</h3>
+<h3>Comment</h3>
 <h3 align='left'>'/stories/<:id>' for comments toggle</h3>
 
 <img src="documentation/Screenshot 2020-12-31 151401.jpg" alt="home">
@@ -174,7 +174,7 @@ function Comment({ storyId, setComments, currentUser }) {
 
 ---
 
-<h3 alignt='center'>Like</h3>
+<h3>Like</h3>
 
 <h4 align='left'>
 
