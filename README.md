@@ -39,7 +39,8 @@ first_draft is a web app that allows user to create an account to create stories
 
 <h4 align='left'; font-size:2em;>
 
-```js
+```py
+
 @auth_routes.route('/login', methods=['POST'])
 def login():
     """
