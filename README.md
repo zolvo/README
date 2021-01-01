@@ -35,7 +35,43 @@ first_draft is a web app that allows user to create an account to create stories
 ---
 
 <h1>Features</h1>
+
+<h3 align='left'>
+
+> > Login
+
+> > Story
+
+> > Comment
+
+> > Like
+
+> > Follow
+
+</h3>
+
+---
+
+<h3>Follow</h3>
+
+```py
+
+```
+
+---
+
+<h1>Endpoint Screenshots</h1>
+
+<h3 align='left'>'/'</h3>
+
+<img src="documentation/Screenshot 2020-12-31 190326.jpg" alt="home">
+
+---
+
 <h3>Login</h3>
+<h3 align='left'>'/login'</h3>
+
+<img src="documentation/Screenshot 2020-12-31 192059.jpg" alt="home">
 
 <h4 align='left'>
 
@@ -63,7 +99,16 @@ def login():
 
 ---
 
+<h3 align='left'>'/signup'</h3>
+
+<img src="documentation/Screenshot 2020-12-31 192120.jpg" alt="home">
+
+---
+
 <h3>Story</h3>
+<h3 align='left'>'/stories'</h3>
+
+<img src="documentation/Screenshot 2020-12-31 151046.jpg" alt="home">
 
 <h4 align='left'>
 
@@ -86,7 +131,16 @@ useEffect(() => {
 
 ---
 
+<h3 align='left'>'/stories/<:id>'</h3>
+
+<img src="documentation/Screenshot 2020-12-31 151709.jpg" alt="home">
+
+---
+
 <h3>Comment</h3>
+<h3 align='left'>'/stories/<:id>' for comments toggle</h3>
+
+<img src="documentation/Screenshot 2020-12-31 151401.jpg" alt="home">
 
 <h4 align='left'>
 
@@ -148,52 +202,6 @@ def post_like(id):
         return new_like.to_dict()
 
 ```
-
----
-
-<h3>Follow</h3>
-
-```py
-
-```
-
----
-
-<h1>Endpoint Screenshots</h1>
-
-<h3 align='left'>'/'</h3>
-
-<img src="documentation/Screenshot 2020-12-31 190326.jpg" alt="home">
-
----
-
-<h3 align='left'>'/login'</h3>
-
-<img src="documentation/Screenshot 2020-12-31 192059.jpg" alt="home">
-
----
-
-<h3 align='left'>'/signup'</h3>
-
-<img src="documentation/Screenshot 2020-12-31 192120.jpg" alt="home">
-
----
-
-<h3 align='left'>'/stories'</h3>
-
-<img src="documentation/Screenshot 2020-12-31 151046.jpg" alt="home">
-
----
-
-<h3 align='left'>'/stories/<:id>'</h3>
-
-<img src="documentation/Screenshot 2020-12-31 151709.jpg" alt="home">
-
----
-
-<h3 align='left'>'/stories/<:id>' for comments toggle</h3>
-
-<img src="documentation/Screenshot 2020-12-31 151401.jpg" alt="home">
 
 ---
 
