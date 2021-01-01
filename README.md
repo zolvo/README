@@ -30,7 +30,7 @@ first_draft is a web app that allows user to create an account to create stories
 
 <h1>Database Schema</h1>
 
- <img src="documentation/database-schema.png" alt="firstdraftlogo" >
+ <img src="documentation/database-schema.png" alt="firstdraftlogo">
 
 ---
 
@@ -156,5 +156,63 @@ def post_like(id):
 ```py
 
 ```
+
+---
+
+<h1>Endpoint Screenshots</h1>
+
+<h3 align='left'>'/'</h3>
+
+<img src="documentation/Screenshot 2020-12-31 190326.jpg" alt="home">
+
+---
+
+<h3 align='left'>'/login'</h3>
+
+<img src="documentation/Screenshot 2020-12-31 192059.jpg" alt="home">
+
+---
+
+<h3 align='left'>'/signup'</h3>
+
+<img src="documentation/Screenshot 2020-12-31 192120.jpg" alt="home">
+
+---
+
+<h3 align='left'>'/stories'</h3>
+
+<img src="documentation/Screenshot 2020-12-31 151046.jpg" alt="home">
+
+---
+
+<h3 align='left'>'/stories/<:id>'</h3>
+
+<img src="documentation/Screenshot 2020-12-31 151709.jpg" alt="home">
+
+---
+
+<h3 align='left'>'/stories/<:id>' for comments toggle</h3>
+
+<img src="documentation/Screenshot 2020-12-31 151401.jpg" alt="home">
+
+---
+
+<h3 align='left'>'/users'</h3>
+
+<img src="documentation/Screenshot 2020-12-31 151447.jpg" alt="home">
+
+---
+
+<h3 align='left'>'/users/<:id>'</h3>
+
+<img src="documentation/Screenshot 2020-12-31 192746.jpg" alt="home">
+
+---
+
+---
+
+<h3 align='left'>'/' for most recent stories</h3>
+
+<img src="documentation/Screenshot 2020-12-31 192920.jpg" alt="home">
 
 ---
