@@ -30,7 +30,7 @@ first_draft is a web app that allows user to create an account to create stories
 
 <h1>Database Schema</h1>
 
- <img src="documentation/database-schema.png" alt="firstdraftlogo" width="300">
+ <img src="documentation/database-schema.png" alt="firstdraftlogo" width="100%">
 
 ---
 
